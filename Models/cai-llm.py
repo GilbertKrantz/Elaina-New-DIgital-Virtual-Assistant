@@ -1,8 +1,8 @@
 from characterai import PyCAI
 
-client = PyCAI('[user-token]')
+client = PyCAI('dd7a926b001ecb0100c5022075f51b7cc8893cdd')
 
-char = '[character-token]'
+char = 'YntB_ZeqRq2l_aVf2gWDCZl4oBttQzDvhj9cXafWcF8'
 
 chat = client.chat.get_chat(char)
 
