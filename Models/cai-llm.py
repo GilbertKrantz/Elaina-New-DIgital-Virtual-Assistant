@@ -1,6 +1,6 @@
 from characterai import PyCAI
 
-client = PyCAI('dd7a926b001ecb0100c5022075f51b7cc8893cdd')
+client = PyCAI('[client_key]')
 
 char = 'YntB_ZeqRq2l_aVf2gWDCZl4oBttQzDvhj9cXafWcF8'
 
